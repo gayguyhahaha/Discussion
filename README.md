@@ -5,4 +5,6 @@ Public discussion will be held in [the issues][] of this repository. To start a 
 
 [the issues]: https://github.com/gge-ucd/Discussion/issues
 
-Lots of the good stuff will end up in [closed issues](https://github.com/gge-ucd/Discussion/issues?q=is%3Aissue+is%3Aclosed), so dont' forget to look there! Or, more generally, use the "Search" feature on this repository to find things.
+Lots of the good stuff will end up in [closed issues](https://github.com/gge-ucd/Discussion/issues?q=is%3Aissue+is%3Aclosed), so don't forget to look there! Or, more generally, use the "Search" feature on this repository to find things.
+
+This is a private repo that only our class has access to, so don't be shy! Please, if you have a question, someone else probably does too...ideally I'd like students to try answering each other and not just instructors!
