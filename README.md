@@ -1,6 +1,11 @@
 Discussion
 ==========
 
+# Live Coding Link:
+
+https://dl.dropboxusercontent.com/u/108583959/wRangling_notebook.Rmd
+
+# How This Repo Works
 Public discussion will be held in [the issues][] of this repository. To start a new thread, create a new issue. Tag your peers using their handle—`@ryanpeek`, for example—to get their attention.
 
 [the issues]: https://github.com/gge-ucd/Discussion/issues
