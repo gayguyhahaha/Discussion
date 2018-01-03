@@ -2,8 +2,9 @@ Discussion
 ==========
 
 # Live Coding Links:
+We will be live coding the content of this course so you can follow along. The link to the file we are writing to can be found at these links. Keep it open in your web browser and click "Refresh" so you can see all the content in our file since it was last saved. Remind us to save the file that we are typing to if you aren't seeing the updated content at these links!
 
-https://dl.dropboxusercontent.com/u/108583959/wRangling_notebook.Rmd
+- [Week 1: 2018-01-09](https://dl.dropboxusercontent.com/s/odkuptfvl5kqskt/2018-R-DAVIS-w1.R?dl=0)
 
 # Collaborative Class Notes Links:
 
