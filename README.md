@@ -1,9 +1,13 @@
 Discussion
 ==========
 
-# Live Coding Link:
+# Live Coding Links:
 
 https://dl.dropboxusercontent.com/u/108583959/wRangling_notebook.Rmd
+
+# Collaborative Class Notes Links:
+
+[Week 1: 2019-01-09](https://docs.google.com/a/ucdavis.edu/document/d/1BuqJQtjQBVQVJACWZQQreh6q25rOp2-ZNdTjlWhtfBg/edit?usp=sharing)
 
 # How This Repo Works
 Public discussion will be held in [the issues][] of this repository. To start a new thread, create a new issue. Tag your peers using their handle—`@ryanpeek`, for example—to get their attention.
